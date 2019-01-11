@@ -1,0 +1,26 @@
+
+
+public class System
+{
+   
+ 
+   public System() 
+   {
+    \\\
+   }
+   
+ 
+   public void validation() 
+   {
+    \\\
+   }
+   
+   
+   public void viewReports() 
+   {
+    \\
+   }
+}
+
+
+

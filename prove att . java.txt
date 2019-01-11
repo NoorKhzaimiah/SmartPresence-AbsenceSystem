@@ -1,0 +1,28 @@
+
+
+public class ProvingAttendance
+{
+   private int id;
+   private string Name;
+   
+ 
+   public ProvingAttendance() 
+   {
+    \\\
+   }
+   
+ 
+   public void validation() 
+   {
+    \\\
+   }
+   
+   
+   public void prove() 
+   {
+    \\\
+   }
+}
+
+
+
